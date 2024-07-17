@@ -1,0 +1,47 @@
+
+
+.user-table-container {
+    margin: 50px;
+}
+.user-table-container h2{
+    color: #f2f2f2;
+}
+.user-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.user-table th, .user-table td {
+    
+    padding: 8px;
+    text-align: left;
+}
+
+.user-table th {
+    background-color: #f2f2f2;
+}
+
+.user-table .actions {
+    text-align: center;
+}
+
+.user-table .actions button {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.user-table .actions .edit-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.user-table .actions .delete-btn {
+    background-color: #f44336;
+    color: white;
+    border: none;
+}
+
+.user-table td{
+    color: #f2f2f2;
+}
